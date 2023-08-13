@@ -1,0 +1,45 @@
+@media screen and (max-width: 1200px) {
+    .menu-header {
+        width: 60%;
+        margin-top: 15px;
+    }
+
+    .conteudo-sobre {
+        align-items: center;
+    }
+
+    .imagem-sobre {
+        width: 80%;
+    }
+
+    .texto-sobre {
+        width: 80%;
+        margin-top: 30px;
+        padding: 15px;
+        text-align: center;
+    }
+
+
+    .conteudo-endereco {
+        align-items: center;
+        height: auto;
+    }
+
+    .conteudo-endereco h2 {
+        align-self: center;
+        margin-top: 20px;
+    }
+
+    .texto-endereco p {
+        width: 80%;
+        margin: 20px 0;
+        text-align: center;
+    }
+
+    .mapa {
+        
+        width: 150px;
+        top: 90px;
+        right: 10px;
+    }
+}
